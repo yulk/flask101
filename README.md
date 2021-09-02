@@ -1,6 +1,6 @@
 这个一个来自  https://overiq.com/flask-101/ 的 FLASK 101教程
 
-我基于分发的目的把它做成了 jupyter notebook 格式的中文教程, 官方授权获取中.
+我基于分发的目的把它做成了 jupyter notebook 格式的中文教程, 已获取官方授权.
 
 建议通过 VisualStudio CODE 搭配python相关插件后使用.
 
