@@ -12,7 +12,7 @@
 * [安装FLASK](https://overiq.com/flask-101/installing-flask/)
 * [FLASK基础知识](https://overiq.com/flask-101/flask-basics/)
 * [FLASK中的语境](https://overiq.com/flask-101/contexts-in-flask/)
-* [在FLASK中定制响应和钩尖](https://overiq.com/flask-101/custom-response-and-hook-points-in-flask/)
+* [在FLASK中定制响应和拦截点](https://overiq.com/flask-101/custom-response-and-hook-points-in-flask/)
 * [FLASK中的模板](https://overiq.com/flask-101/templates-in-flask/)
 * [JINJA模板语言基础](https://overiq.com/flask-101/basics-of-jinja-template-language/)
 * [在 Flask 中创建 url](https://overiq.com/flask-101/creating-urls-in-flask/)
